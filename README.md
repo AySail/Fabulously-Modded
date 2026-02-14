@@ -1,6 +1,4 @@
-Perfect! Here’s a **visually enhanced, GitHub-friendly version** of your README with **collapsible sections, badges, and color-coded warnings**, making it easier to navigate and more eye-catching:
 
----
 
 # ![Fabulously Modded Logo](https://i.imgur.com/tigOpEP.png)
 
@@ -151,11 +149,8 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" ...
 
 </details>
 
----
 
-This version uses **collapsible sections** to reduce scrolling, includes **badges for clarity**, and highlights warnings and requirements visually. It’s very GitHub-friendly and easy for users to scan.
 
----
 
 If you want, I can **also make a version with color-coded badges for Nightly / Alpha / Beta / Release versions** so users instantly see stability at a glance—it would make it even more professional.
 
